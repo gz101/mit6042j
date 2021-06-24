@@ -1,5 +1,4 @@
 # MIT 6.042j Self Study
-======
 
 CS 121: Introduction to Theoretical Computer Science is a compulsory theory course for all computer science concentrators in Harvard College. A course in discrete mathematics is a prerequisite. For students who did not have the time to take a discrete math course before CS 121 can also attain the necessary prerequisite knowledge through self-study of MIT's 6.042j course (on their OCW website), as described on the CS 121 website.
 
@@ -16,7 +15,6 @@ This repo contains my study materials such as the suggested homework and problem
 
 ## Study Plan
 
-------
 ### Mathematical Proof
 Readings:
 * Mathematics for Computer Science, Chapter 1
