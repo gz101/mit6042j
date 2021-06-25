@@ -26,3 +26,14 @@ Lectures:
 
 Homework:
 * [MIT 6.042j Problem Set 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn01.pdf)
+
+### Proofs by Induction and Well Ordering
+Readings:
+* [Lehman-Leighton Chapter 2](https://cs121.boazbarak.org/LL_induction.pdf)
+
+Lectures:
+* [MIT 6.042j Lecture 2: Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction/)
+* [MIT 6.042j Lecture 3: Strong Induction](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-3-strong-induction/)
+
+Homework:
+* [MIT 6.042j Problem Set 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn02.pdf)
