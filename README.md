@@ -37,3 +37,11 @@ Lectures:
 
 Homework:
 * [MIT 6.042j Problem Set 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn02.pdf)
+
+### Sets, Functions, Relations
+Readings:
+* MCS Chapter 4 (Mathematical Data Types)
+* MCS Chapter 8 (Infinite Sets - optional)
+
+Homework:
+* MCS 4.8, 4.13, 4.14, 4.18, 4.25, 4.31, 4.37
