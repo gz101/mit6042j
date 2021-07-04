@@ -40,8 +40,21 @@ Homework:
 
 ### Sets, Functions, Relations
 Readings:
-* MCS Chapter 4 (Mathematical Data Types)
-* MCS Chapter 8 (Infinite Sets - optional)
+* Mathematics for Computer Science Chapter 4 (Mathematical Data Types)
+* Mathematics for Computer Science Chapter 8 (Infinite Sets - optional)
 
 Homework:
 * MCS 4.8, 4.13, 4.14, 4.18, 4.25, 4.31, 4.37
+
+### Graphs
+Readings:
+* Mathematics for Computer Science Chapter 10.1 to 10.5 (Directed Graphs)
+* [Lehman-Leighton Chapter 6](https://cs121.boazbarak.org/LL_graph_theory.pdf)
+* Mathematics for Computer Science Chapter 10 to 12 (Directed Graphs & Partial Orders, Communication Networks, Simple Graphs - optional)
+
+Lectures:
+* [MIT 6.042j Lecture 6: Graph Theory and Coloring](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-6-graph-theory-and-coloring/)
+
+Homework:
+* [MIT 6.042j Problem Set 4](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn04.pdf)
+* MCS 10.15, 10.18, 10.21
