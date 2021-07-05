@@ -27,6 +27,8 @@ Lectures:
 Homework:
 * [MIT 6.042j Problem Set 1](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn01.pdf)
 
+***
+
 ### Proofs by Induction and Well Ordering
 Readings:
 * [Lehman-Leighton Chapter 2](https://cs121.boazbarak.org/LL_induction.pdf)
@@ -38,6 +40,8 @@ Lectures:
 Homework:
 * [MIT 6.042j Problem Set 2](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/MIT6_042JF10_assn02.pdf)
 
+***
+
 ### Sets, Functions, Relations
 Readings:
 * Mathematics for Computer Science Chapter 4 (Mathematical Data Types)
@@ -45,6 +49,8 @@ Readings:
 
 Homework:
 * MCS 4.8, 4.13, 4.14, 4.18, 4.25, 4.31, 4.37
+
+***
 
 ### Graphs
 Readings:
