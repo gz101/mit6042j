@@ -17,7 +17,7 @@ This repo contains my study materials such as the suggested homework and problem
 
 ### Mathematical Proof
 Readings:
-* Mathematics for Computer Science, Chapter 1
+* [Mathematics for Computer Science, Chapter 1](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/7853d585044ef21bce5f48ce5fc89d28_MIT6_042JF10_chap01.pdf)
 * [Stanford CS 103 Handout](https://cs121.boazbarak.org/cs103_proofs.pdf)
 * [Berkeley Proofs](http://www.math.berkeley.edu/~hutching/teach/proofs.pdf)
 
